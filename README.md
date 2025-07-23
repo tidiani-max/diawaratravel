@@ -1,11 +1,11 @@
-DiawaraTravel – Explore Mali with Confidence 🌍✈️
+DiawaraTravel – Explore Indonesia with Confidence 
 
-DiawaraTravel is a web-based travel platform developed under Diawara Digital & Software (DDS). This project aims to promote tourism in Mali by providing easy access to information about local destinations, cultural highlights, and travel tips.
+DiawaraTravel is a web-based travel platform developed under Diawara Digital & Software (DDS). This project aims to promote tourism in Indonesia by providing easy access to information about local destinations, cultural highlights, and travel tips.
 
- 🧭 Project Overview
+ Project Overview
 
 DiawaraTravel showcases:
-- Beautiful travel destinations across Mali
+- Beautiful travel destinations across Indonesia
 - Cultural, historical, and natural sites
 - Contact and booking information
 - Travel tips for local and international visitors
@@ -54,4 +54,4 @@ Email: diawarasoftwarecompagnie@gmail.com
 
 LinkedIn: Cheick Tidiani Diawara
 
- Travel Mali. Discover the unseen. Experience the culture. 🇲🇱
+ Travel Indonesia. Discover the unseen. Experience the culture. Ind
